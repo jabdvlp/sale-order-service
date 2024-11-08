@@ -1,4 +1,5 @@
-package com.example.saleorderservice.controllers;
+package com.example.saleorderservice;
+
 
 import org.springframework.web.bind.annotation.RestController;
 
